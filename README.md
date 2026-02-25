@@ -1,5 +1,5 @@
 # VisionHD
-Offical Implementation of Vision-HD
+Offical C++ Implementation of Vision-HD
 https://figshare.com/articles/dataset/Code_and_data_for_Vision-HD/23215034
 
 The program deployment is included in the code_VisionHD.zip
