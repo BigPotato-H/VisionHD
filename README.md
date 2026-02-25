@@ -1,4 +1,4 @@
-# VisionHD
+# Vision-HD: road change detection and registration using images and high-definition maps
 Offical C++ Implementation of Vision-HD
 https://figshare.com/articles/dataset/Code_and_data_for_Vision-HD/23215034
 
